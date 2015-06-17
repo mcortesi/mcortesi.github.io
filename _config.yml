@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Code Vagabond
 locale:           en_US
-url:              
+# url: //mcortesi.github.io
 
 
 # Jekyll configuration
@@ -26,25 +26,25 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Mariano Cortesi
+  avatar: avatar_square.png
   bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  email: mcortesi@gmail.com
+  disqus-shortname:
+  twitter: mcortesi5
   facebook: #username
   google:
-    plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+    # plus: mcortesi
+    analytics: UA-64222989-1
+    verify: 3c-OO83lYXzk2HhYf-pFwWYVVNW4tyANSr54qLYaNMQ
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: mcortesi
+  stackoverflow: http://stackoverflow.com/users/300325/mcortesi
+  linkedin: mcortesi
   xing: #username
-  instagram: #username
+  # instagram: mcortesi
   lastfm: #username
   tumblr: #username
   pinterest: #username
