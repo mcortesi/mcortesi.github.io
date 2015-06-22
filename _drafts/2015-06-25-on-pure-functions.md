@@ -3,10 +3,10 @@ layout: post
 title: "Functional Programming: On Pure Functions"
 excerpt: "Why pure functions are important? How and When to use them."
 tags: [functional programming]
-modified: 2015-06-20
+modified: 2015-06-25
 comments: true
 image:
-  feature: backgrounds/flor-bsas.jpg
+  feature: backgrounds/flor-bsas2.jpg
 
 ---
 
